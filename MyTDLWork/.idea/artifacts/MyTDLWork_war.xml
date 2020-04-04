@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyTDLWork:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MyTDLWork.war">
+      <element id="artifact" artifact-name="MyTDLWork:war exploded" />
+    </root>
+  </artifact>
+</component>
